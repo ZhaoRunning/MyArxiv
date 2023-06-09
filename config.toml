@@ -14,13 +14,13 @@ title = "Audio and Speech Processing"
 
 [[sources]]
 limit = 150
-category = "cs.AI"
-title = "Artificial Intelligence"
+category = "cs.NI"
+title = "Networking and Internet Architecture"
 
 [[sources]]
 limit = 150
-category = "cs.LG"
-title = "Machine Learning"
+category = "cs.AI"
+title = "Artificial Intelligence"
 
 [[sources]]
 limit = 150
