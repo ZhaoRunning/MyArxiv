@@ -19,6 +19,11 @@ title = "Artificial Intelligence"
 
 [[sources]]
 limit = 150
+category = "cs.LG"
+title = "Machine Learning"
+
+[[sources]]
+limit = 150
 category = "cs.HC"
 title = "Human-Computer Interaction"
 
