@@ -14,13 +14,13 @@ title = "Audio and Speech Processing"
 
 [[sources]]
 limit = 150
-category = "cs.NI"
-title = "Networking and Internet Architecture"
+category = "eess.SP"
+title = "Signal Processing"
 
 [[sources]]
 limit = 150
-category = "cs.AI"
-title = "Artificial Intelligence"
+category = "cs.NI"
+title = "Networking and Internet Architecture"
 
 [[sources]]
 limit = 150
@@ -29,8 +29,8 @@ title = "Human-Computer Interaction"
 
 [[sources]]
 limit = 150
-category = "cs.CV"
-title = "Computer Vision and Pattern Recognition"
+category = "cs.AI"
+title = "Artificial Intelligence"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
