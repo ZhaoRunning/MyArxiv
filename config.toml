@@ -24,11 +24,6 @@ title = "Human-Computer Interaction"
 
 [[sources]]
 limit = 150
-category = "cs.MM"
-title = "Multimedia"
-
-[[sources]]
-limit = 150
 category = "cs.CV"
 title = "Computer Vision and Pattern Recognition"
 
